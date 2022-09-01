@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jason Shen</h1>
 <h3 align="center">A passionate fullstack developer from New Zealand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-shen&label=Profile%20views&color=0e75b6&style=flat" alt="jason-shen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-shen" alt="jason-shen" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-shen&label=Profile%20views&color=0e75b6&style=flat" alt="jason-shen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jasonshen_" target="blank"><img src="https://img.shields.io/twitter/follow/jasonshen_?logo=twitter&style=for-the-badge" alt="jasonshen_" /></a> </p>
 
