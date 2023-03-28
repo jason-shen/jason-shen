@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [frame](https://framevr.io)
 
-- 🌱 I’m currently learning **carbon**
+- 🌱 I’m currently learning **zig**
 
 - 📝 I regularly write articles on [https://www.jasonshen.co.nz](https://www.jasonshen.co.nz)
 
