@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasonshen_" target="blank"><img src="https://img.shields.io/twitter/follow/jasonshen_?logo=twitter&style=for-the-badge" alt="jasonshen_" /></a> </p>
 
-- 🔭 I’m currently working on [frame](https://framevr.io)
+- 🔭 I’m currently working on Webrtc, Ai
 
 - 🌱 I’m currently learning **zig**
 
