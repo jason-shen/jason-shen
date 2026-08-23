@@ -17,6 +17,7 @@ Full-stack developer from New Zealand focused on real-time communications, AI, a
 - 🧠 Currently learning about **LLM training, fine-tuning, datasets, and inference**
 - 📝 I write occasionally at [jasonshen.co.nz](https://www.jasonshen.co.nz)
 - 💬 Ask me about **WebRTC, Go, Rust, TypeScript, React Native, and Node.js**
+- 💼 Available for selected remote contract work in **WebRTC, voice AI, Go, and real-time systems**
 - 📫 Reach me at **hello@jasonshen.co.nz**
 
 ## What I work with
