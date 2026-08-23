@@ -5,9 +5,7 @@ Full-stack developer from New Zealand focused on real-time communications, AI, a
 </h3>
 
 <p align="center">
-  <a href="https://x.com/jasonshen_">
-    <img src="https://img.shields.io/badge/Follow-%40jasonshen__-000000?style=flat&logo=x&logoColor=white" alt="Follow Jason Shen on X" />
-  </a>
+  <a href="https://x.com/jasonshen_"><img src="https://img.shields.io/badge/Follow-%40jasonshen__-000000?style=flat&logo=x&logoColor=white" alt="Follow Jason Shen on X" /></a>
   <img src="https://komarev.com/ghpvc/?username=jason-shen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -50,30 +48,18 @@ Real-time media infrastructure for building voice agents and other AI-powered ap
 [Documentation](https://github.com/streamcoreai/streamcore-server/tree/main/docs)
 
 <p>
-  <a href="https://github.com/streamcoreai/streamcore-server">
-    <img src="https://img.shields.io/github/stars/streamcoreai/streamcore-server?style=flat&logo=github&label=Stars" alt="StreamCore stars" />
-  </a>
-  <a href="https://github.com/streamcoreai/streamcore-server/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="Apache 2.0 License" />
-  </a>
+  <a href="https://github.com/streamcoreai/streamcore-server"><img src="https://img.shields.io/github/stars/streamcoreai/streamcore-server?style=flat&logo=github&label=Stars" alt="StreamCore stars" /></a>
+  <a href="https://github.com/streamcoreai/streamcore-server/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="Apache 2.0 License" /></a>
 </p>
 
 ## Connect with me
 
 <p align="left">
-  <a href="https://x.com/jasonshen_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jason Shen on X" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/user/jasonnzyc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jason Shen on YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.jasonshen.co.nz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-jasonshen.co.nz-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Jason Shen's website" />
-  </a>
+  <a href="https://x.com/jasonshen_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jason Shen on X" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/user/jasonnzyc" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jason Shen on YouTube" height="30" width="40" /></a>
+  <a href="https://www.jasonshen.co.nz" target="_blank"><img src="https://img.shields.io/badge/Website-jasonshen.co.nz-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Jason Shen's website" /></a>
 </p>
 
 ## Support my open-source work
 
-<a href="https://www.buymeacoffee.com/jshe">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-</a>
+<a href="https://www.buymeacoffee.com/jshe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
